@@ -1,14 +1,11 @@
 <h1>Calculadora</h1>
 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido durante o curso de HTML e CSS juntamente com lógica de programação fornecidas pela Alura. Este projeto tem como objetivos a criação de
-  um mine game de advinhação de números juntamente com exploração da linguagem.</p>
+<p>Projeto desenvolvido como forma de praticar e exercitar conhecimentos prévios em desenvolvimento front-end.</p>
 
-## Como Jogar
-  Ao entra no game o usuário contará com um campo de entrada numérica do qual pedirá para relizar as tentativas, conforme o usuário for informando valores, o programa irá indicar se o valor é 
-  maior que o número sorteado ou menor. Os números são sorteados aleatoriamente pelo programa a cada rodada, sem repetição de valores a menos que a página seja atualizada. 
-
-  Bom jogo!!
+## Como usar
+  Ao entrar no site, usuário terá uma calculadora com funções básicas para usar. Projeto focado em contas básicas como soma, subtração, divisão, multiplicação de valores numéricos inteiros.
+  Bom uso!
 
 ## Tecnologias
 <div>
